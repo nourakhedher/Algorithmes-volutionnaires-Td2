@@ -1,0 +1,6 @@
+Objectif de l'exercice 3 : trouver le circuit le plus court qui passe une seule fois par chacune des 8 villes et revient à la ville 1 (problème du voyageur de commerce).
+On compare 3 méthodes :
+Recherche tabou (solution initiale 1-2-3-4-5-6-7-8-1, de coût 103)
+Recuit simulé (5 itérations, avec une variation empirique de la température T)
+Algorithme génétique
+Résultat : le circuit le plus court coûte 98, par exemple 1-8-3-7-6-5-4-2-1. Les "-" du tableau signifient qu'il n'y a pas de route directe entre les deux villes.
