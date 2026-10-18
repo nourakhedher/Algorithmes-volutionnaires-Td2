@@ -1,0 +1,1 @@
+Objectif : organiser les livraisons de containers de 2 dépôts (D1, D2) vers 3 magasins (M1, M2, M3) pour minimiser le coût total de transport, en respectant les stocks des dépôts (8 et 9) et les demandes des magasins (4, 5 et 8), avec la recherche tabou.
